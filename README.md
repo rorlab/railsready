@@ -1,3 +1,10 @@
+#Change Logs in my fork
+ * updated recipes/centos.sh to x85_64 version as follow:
+
+>epel_repo_url="http://dl.iuscommunity.org/pub/ius/stable/Redhat/5/x86_64/epel-release-5-4.noarch.rpm"
+
+---
+
 #Rails Ready
 ###Ruby and Rails setup script for Linux and OSX
 ###Distros supported:
